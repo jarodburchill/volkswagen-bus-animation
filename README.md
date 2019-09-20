@@ -1,2 +1,2 @@
-# VolkswagenBusAnimation
-GitHub Pages: https://jarodburchill.github.io/VolkswagenBusAnimation/
+# Volkswagen Bus Animation
+GitHub Pages: https://jarodburchill.github.io/volkswagen-bus-animation/
